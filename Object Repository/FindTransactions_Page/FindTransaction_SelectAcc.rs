@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>FindTransaction_SelectAcc</name>
+   <tag></tag>
+   <elementGuidId>6e2fbe40-53e6-457e-97b2-be9a73469791</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='accountId']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#accountId</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#accountId</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>1ffc9247-3023-41b6-887a-2b3d19d09c38</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>accountId</value>
+      <webElementGuid>9d3870e8-dd65-4bd9-afd3-f3a8f165c384</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>6dff9b9b-8258-43f0-ae0d-c41e0338e324</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+					
+						16674
+					
+				</value>
+      <webElementGuid>9a721720-b874-4268-926d-ffcef5507b62</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;accountId&quot;)</value>
+      <webElementGuid>7823d7b9-17cd-4ef4-ba78-4cb64574fb6a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='accountId']</value>
+      <webElementGuid>57c67a14-2666-40d3-9969-6f4c2e69fe9c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='transactionForm']/div/select</value>
+      <webElementGuid>2ac73865-1081-4b04-b15a-789a6b01eb51</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select an account'])[1]/following::select[1]</value>
+      <webElementGuid>4850e02d-efb1-442e-b28a-d29c6516b9cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Find by Transaction ID'])[1]/preceding::select[1]</value>
+      <webElementGuid>716d793b-026d-4b21-a14b-129e4484ed19</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>ce0629cc-9ff3-49e6-a4db-47b9c64f1aa7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'accountId' and (text() = '
+					
+						16674
+					
+				' or . = '
+					
+						16674
+					
+				')]</value>
+      <webElementGuid>9a9ec942-7a07-48cb-92d4-4865d8258972</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

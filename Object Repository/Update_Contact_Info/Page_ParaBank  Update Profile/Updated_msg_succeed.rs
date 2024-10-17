@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Updated_msg_succeed</name>
+   <tag></tag>
+   <elementGuidId>880a682f-2408-45a5-b9fa-37c3da69b93d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='updateProfileResult']/h1</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#updateProfileResult > h1.title</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=heading[name=&quot;Profile Updated&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>72b2e62a-0503-43ba-8b56-17db96b932fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>title</value>
+      <webElementGuid>0f9ba0d8-22e0-4ced-b4db-a9e8d725b818</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Profile Updated</value>
+      <webElementGuid>cb08687c-5954-429b-99d0-34cfb22de957</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;updateProfileResult&quot;)/h1[@class=&quot;title&quot;]</value>
+      <webElementGuid>002e1629-28a9-4c81-bdd2-96695ce0911c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='updateProfileResult']/h1</value>
+      <webElementGuid>1872f852-8375-48af-b76e-741515a99eab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Phone #:'])[1]/following::h1[1]</value>
+      <webElementGuid>8d19b145-90e9-4718-bebe-5720964c52c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Zip Code:'])[1]/following::h1[1]</value>
+      <webElementGuid>c0300db9-6ece-42f6-bb5b-205747c0651e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Error!'])[1]/preceding::h1[1]</value>
+      <webElementGuid>82ecdb6e-3921-49b5-83d9-bfbae20a8671</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Profile Updated']/parent::*</value>
+      <webElementGuid>d6b775c0-329d-48fc-9098-d88be517f197</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/h1</value>
+      <webElementGuid>9762c801-03aa-4c98-8659-b3e0dc405305</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h1[(text() = 'Profile Updated' or . = 'Profile Updated')]</value>
+      <webElementGuid>5bef084e-139e-4b77-a1df-bd871f562cf6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>OpenNewAcc_btn</name>
+   <tag></tag>
+   <elementGuidId>79707c3d-5601-4f51-8ad4-35fc11e176bd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='leftPanel']/ul/li/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#leftPanel > ul > li > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Open New Account&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>32c5f999-5ec5-4c82-a18a-d54d91734ed2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>openaccount.htm</value>
+      <webElementGuid>bc25b28a-d297-47c3-954b-355244c01c75</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Open New Account</value>
+      <webElementGuid>69dae77b-a9ed-4d43-b85b-287717836978</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;leftPanel&quot;)/ul[1]/li[1]/a[1]</value>
+      <webElementGuid>f11f9055-5a75-4e59-8db9-911d4bbb17fc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='leftPanel']/ul/li/a</value>
+      <webElementGuid>5c7d1d71-8967-4d09-82f0-595cb2e0f319</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Open New Account')]</value>
+      <webElementGuid>f3c4b96c-62b5-4b3a-a64b-2dae8ab162a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Account Services'])[1]/following::a[1]</value>
+      <webElementGuid>59527319-217c-40ae-af61-cc4703c0b489</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Welcome'])[1]/following::a[1]</value>
+      <webElementGuid>1459a30c-b29b-407e-831f-5603b85adfbb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Accounts Overview'])[1]/preceding::a[1]</value>
+      <webElementGuid>b07ce455-48d0-4088-91c9-60c54406ec40</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Transfer Funds'])[1]/preceding::a[2]</value>
+      <webElementGuid>83d7dac0-2121-4c9c-86cc-e4291d465e0e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Open New Account']/parent::*</value>
+      <webElementGuid>6c888013-02aa-42a3-b48f-972bef429a7e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'openaccount.htm')]</value>
+      <webElementGuid>3346c2ae-c568-440c-b740-69280c7e77bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/ul/li/a</value>
+      <webElementGuid>d455d9ad-3e27-4bbe-8bff-68f6abf51eac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'openaccount.htm' and (text() = 'Open New Account' or . = 'Open New Account')]</value>
+      <webElementGuid>a0d30bde-6dab-47ce-8ac5-959dd23c80b1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

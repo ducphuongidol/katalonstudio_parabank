@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>FindTransactions_Btn</name>
+   <tag></tag>
+   <elementGuidId>fbeb0207-15ad-46d6-94b3-cd0c5fadb9f9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='leftPanel']/ul/li[5]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#leftPanel > ul > li:nth-of-type(5) > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Find Transactions&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>6045661f-cea8-41f9-b712-c0ac3a5899fa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>findtrans.htm</value>
+      <webElementGuid>b1c1832a-8e36-4099-b75b-d10d6898dd32</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Find Transactions</value>
+      <webElementGuid>c08756f7-ac53-4e73-a77c-b2a6fc44f7e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;leftPanel&quot;)/ul[1]/li[5]/a[1]</value>
+      <webElementGuid>5707fdbb-7693-44e0-903e-ff126722b278</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='leftPanel']/ul/li[5]/a</value>
+      <webElementGuid>e2bd1fe9-a27e-4cf4-bd8c-beaada3bc13e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Find Transactions')]</value>
+      <webElementGuid>7b60456f-5f26-41b8-8b34-c25ef100114a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bill Pay'])[1]/following::a[1]</value>
+      <webElementGuid>5194bfb5-c483-4da8-98b1-736d6af077ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Transfer Funds'])[1]/following::a[2]</value>
+      <webElementGuid>dc3d2fa7-c0af-4c99-888c-50d5adfeebbe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Update Contact Info'])[1]/preceding::a[1]</value>
+      <webElementGuid>5a363222-911a-4754-ad05-306d26a96882</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Request Loan'])[1]/preceding::a[2]</value>
+      <webElementGuid>14d6e2ce-32b6-4764-9de4-6ac229b5fb16</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Find Transactions']/parent::*</value>
+      <webElementGuid>3964bf20-20fb-492b-a1cf-af295b2654e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'findtrans.htm')]</value>
+      <webElementGuid>af3746d5-c565-456c-a0a4-4702b04d4974</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/ul/li[5]/a</value>
+      <webElementGuid>df7c1314-92b4-411b-a7d7-5027ed790474</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'findtrans.htm' and (text() = 'Find Transactions' or . = 'Find Transactions')]</value>
+      <webElementGuid>3eb81f61-afb1-494e-b002-6c5f190b6cf9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
