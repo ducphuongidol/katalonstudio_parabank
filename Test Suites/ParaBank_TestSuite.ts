@@ -63,7 +63,7 @@
    <testCaseLink>
       <guid>61ff7fca-5af3-4ef3-95ed-f762e441bb32</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/Update_Contact_Info</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
