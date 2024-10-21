@@ -27,6 +27,8 @@ GlobalVariable.username = username
 
 String password = 'Taokhongbietdau04@'
 
+String value = '123'
+
 GlobalVariable.password = password
 
 WebUI.openBrowser('')
