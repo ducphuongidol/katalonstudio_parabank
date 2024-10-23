@@ -27,7 +27,11 @@ GlobalVariable.username = username
 
 String password = 'Taokhongbietdau04@'
 
+<<<<<<< Upstream, based on branch 'second_branch' of https://github.com/ducphuongidol/katalonstudio_parabank.git
 String value = '123'
+=======
+String opt = '123'
+>>>>>>> f08eb39 commit last day
 
 GlobalVariable.password = password
 

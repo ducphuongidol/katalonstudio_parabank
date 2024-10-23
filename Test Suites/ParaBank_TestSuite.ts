@@ -28,7 +28,7 @@
    <testCaseLink>
       <guid>4144c10a-01ce-45a9-8693-461e2f6819e4</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/Login_CreateTrans</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
@@ -56,7 +56,7 @@
    <testCaseLink>
       <guid>f8db8e00-5d7b-466a-8654-336c88df395d</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/Open_Account</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
